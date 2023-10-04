@@ -2216,6 +2216,14 @@ html, body {
     margin-right: 6rem;
   }
 
+  .lg\:ml-2 {
+    margin-left: 0.5rem;
+  }
+
+  .lg\:ml-20 {
+    margin-left: 5rem;
+  }
+
   .lg\:w-1\/2 {
     width: 50%;
   }
